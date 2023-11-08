@@ -1,0 +1,39 @@
+TC Kimlik Numarası
+25234
+İsim
+Denizhan
+Soyisim
+Şahin
+Telefon Numarası
+213
+E-Posta
+denizhan@denizhan.com
+Doğduğu Şehir
+Kocaeli
+Yaşadığı Şehir
+Ankara
+Doğum Yılı
+1965
+Doğum Ay
+1
+Doğum Gün
+2
+Eğitim Seviye
+Üniversite
+Eğitim Okul Adı
+Yozgat Bozok Üniversitesi
+Departman
+Elektronik
+Hobiler
+Kitap
+Spor
+Askerlik
+Askerlik Yapmadı
+Evlilik
+Bekar
+Cinsiyet
+Erkek
+Yazı Alanı
+DEni            
+Dosya Bilgileri
+Upload

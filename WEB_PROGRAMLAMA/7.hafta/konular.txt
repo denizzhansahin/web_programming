@@ -1,0 +1,5 @@
+Date fonksiyonu için zaman gösterim türleri
+date_default_timezone_set ile time bilgisi ayarlama
+date fonksiyonu
+strtotime
+date fonksiyonu için Y-m-d h:i:s - veri tabanı için kullanılır.

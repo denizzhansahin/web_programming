@@ -1,0 +1,20 @@
+insan kaynakları formu
+cv ekleme input --------yapıldı
+cv kriterleri : max 5 mb ve docx/pdf, dosya yükleme, bu dosyaya bir uniq değer ver, dosya ismine -----yapıldı
+
+form girişlerinde başında ve sonunda boşluk kontrolü yapma yapmama-----------yapıldı
+validation - form için, yani zorunlu yerleri doldurmalı ------------------------yapıldı
+
+ad-soyad-eposta------------------yapıldı
+cv zorunlu olsun --------yapıldı
+
+tel no(zorunlu değil)---------yapıldı
+
+bu bilgileri ise ise txt dosyasına cv id ile aynı isimde oluştur. ***bonus ---yarısı yapıldı
+
+
+harici bir php dosyasında sonucu yazdır. --------yapıldı.
+
+eposta doğrulaması yap, içerisinde @ varmı, "." nokta varmı bak --------------yapıldı
+
+text-area yapımı -------yapıldı
